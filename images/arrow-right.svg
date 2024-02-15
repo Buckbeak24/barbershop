@@ -1,0 +1,14 @@
+<svg width="16.000000" height="16.000000" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip6_2106">
+			<rect id="arrow-right" width="16.000000" height="16.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="arrow-right" width="16.000000" height="16.000000" fill="#CECECE" fill-opacity="0"/>
+	<g clip-path="url(#clip6_2106)">
+		<path id="Стрелка (Stroke)" d="M9.58582 8L4.29291 2.70728L5.70709 1.29297L12.4142 8L5.70709 14.7073L4.29291 13.293L9.58582 8Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>
